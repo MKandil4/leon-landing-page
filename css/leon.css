@@ -10,6 +10,9 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
 }
+ul {
+  list-style: none;
+}
 .container {
   padding: 0 15px;
   margin: 0 auto;
