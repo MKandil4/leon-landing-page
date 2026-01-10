@@ -38,7 +38,7 @@ The project focuses on clean layout structure, responsive design, and applying a
 
 ## 🚀 Live Preview
 
-🔗 https://mkandil4.github.io/Template-One/
+🔗 https://mkandil4.github.io/Template-One-Leon/
 
 ------
 
@@ -71,4 +71,5 @@ Template-One/
 ## 💬 Feedback
 
 Feel free to leave feedback, issues, or suggestions to help improve the project! 🫶
+
 
