@@ -6,8 +6,8 @@ This project focuses on clean structure, modern layout techniques, and practical
 ---
 
 ## 🛠 Built With
-- HTML5  
-- CSS3  
+✔️ HTML5  
+✔️ CSS3  
 
 ---
 
@@ -56,6 +56,7 @@ Template-One/
 ## 💬 Feedback & Suggestions
 
 Feel free to open an issue or submit feedback — all suggestions are welcome! 🙌
+
 
 
 
