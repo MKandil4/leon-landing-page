@@ -6,23 +6,23 @@ This project focuses on clean structure, modern layout techniques, and practical
 ---
 
 ## 🛠 Built With
-- ✅ HTML5  
-- ✅ CSS3  
+- HTML5  
+- CSS3  
 
 ---
 
 ## 🎯 Key Features & Concepts Practiced
 
-- ✔ Semantic HTML for better structure and accessibility  
-- ✔ Flexbox for flexible and responsive layouts  
-- ✔ Fully responsive design using Media Queries  
-- ✔ Custom typography using **Google Fonts**  
-- ✔ Icon integration using **Font Awesome**  
-- ✔ Smooth scrolling using `scroll-behavior: smooth`  
-- ✔ Advanced CSS positioning (`relative`, `absolute`)  
-- ✔ Interactive hover effects and smooth transitions  
-- ✔ Consistent spacing, alignment, and reusable CSS utilities  
-- ✔ Clean and organized project structure  
+ ✔ Semantic HTML for better structure and accessibility  
+ ✔ Flexbox for flexible and responsive layouts  
+ ✔ Fully responsive design using Media Queries  
+ ✔ Custom typography using **Google Fonts**  
+ ✔ Icon integration using **Font Awesome**  
+ ✔ Smooth scrolling using `scroll-behavior: smooth`  
+ ✔ Advanced CSS positioning (`relative`, `absolute`)  
+ ✔ Interactive hover effects and smooth transitions  
+ ✔ Consistent spacing, alignment, and reusable CSS utilities  
+ ✔ Clean and organized project structure  
 
 ---
 
@@ -56,6 +56,7 @@ Template-One/
 ## 💬 Feedback & Suggestions
 
 Feel free to open an issue or submit feedback — all suggestions are welcome! 🙌
+
 
 
 
