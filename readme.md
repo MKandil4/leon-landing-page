@@ -26,7 +26,7 @@ This project focuses on clean structure, modern layout techniques, and practical
 
 ---
 
-## 🌐 Live Demo  
+## 🌐 Live Preview  
 🔗 https://mkandil4.github.io/Template-One-Leon/
 
 ## 💻 Source Code  
@@ -43,7 +43,6 @@ Template-One/
 │── images/
 └── webfonts/
 
-
 ---
 
 ## 👤 Author
@@ -57,6 +56,7 @@ Template-One/
 ## 💬 Feedback & Suggestions
 
 Feel free to open an issue or submit feedback — all suggestions are welcome! 🙌
+
 
 
 
