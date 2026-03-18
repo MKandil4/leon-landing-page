@@ -13,7 +13,7 @@ This is a modern and clean landing page built as part of my front-end learning j
 ---
 
 ## 📸 Preview
-![Leon Screenshot](./screenshot.png)
+![Leon Screenshot](./leon-screenshot.png)
 
 ---
 ## 🎯 Key Features & Concepts Practiced
