@@ -1,9 +1,10 @@
-# 🚀 Template One – Leon
+# 🚀 Leon Creative Landing Page (HTML & CSS)
 
-A modern, fully responsive website template built as part of my Front-End learning journey.  
-This project focuses on clean structure, modern layout techniques, and practical implementation of core HTML & CSS concepts.
+This is a modern and clean landing page built as part of my front-end learning journey. The project focuses on responsive design, structured layout, and implementing core HTML & CSS concepts using real-world UI patterns.
 
 ---
+
+🧩 Project Type: Landing Page
 
 ## 🛠 Built With
 ✔️ HTML5  
@@ -11,26 +12,27 @@ This project focuses on clean structure, modern layout techniques, and practical
 
 ---
 
+## 📸 Preview
+![Leon Screenshot](./screenshot.png)
+
+---
 ## 🎯 Key Features & Concepts Practiced
 
- ✔ Semantic HTML for better structure and accessibility  
- ✔ Flexbox for flexible and responsive layouts  
- ✔ Fully responsive design using Media Queries  
- ✔ Custom typography using **Google Fonts**  
- ✔ Icon integration using **Font Awesome**  
- ✔ Smooth scrolling using `scroll-behavior: smooth`  
- ✔ Advanced CSS positioning (`relative`, `absolute`)  
- ✔ Interactive hover effects and smooth transitions  
- ✔ Consistent spacing, alignment, and reusable CSS utilities  
- ✔ Clean and organized project structure  
+✔️ Semantic HTML structure for accessibility and SEO  
+✔️ Flexbox layout for responsive sections  
+✔️ Fully responsive design using media queries  
+✔️ Clean and modern UI implementation  
+✔️ Google Fonts integration  
+✔️ Font Awesome icons usage  
+✔️ Smooth scrolling behavior  
+✔️ Advanced positioning techniques  
+✔️ Hover effects and transitions  
+✔️ Organized and maintainable CSS structure  
 
 ---
 
 ## 🌐 Live Preview  
 🔗 https://mkandil4.github.io/Template-One-Leon/
-
-## 💻 Source Code  
-🔗 https://github.com/MKandil4/Template-One
 
 ---
 
