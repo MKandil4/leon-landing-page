@@ -1,74 +1,67 @@
-# Template One
+# 🚀 Leon Creative Landing Page (HTML & CSS)
 
-This is a modern, responsive website template built as a front-end practice project.
-The project focuses on clean layout structure, responsive design, and applying advanced CSS techniques.
+This is a modern and clean landing page built as part of my front-end learning journey. The project focuses on responsive design, structured layout, and implementing core HTML & CSS concepts using real-world UI patterns.
 
--------
+---
 
-## 🔧 Built With
+🧩 Project Type: Landing Page
 
-✔️ HTML
-✔️ CSS
+## 🛠 Built With
+✔️ HTML5  
+✔️ CSS3  
 
--------
+---
 
-🧠 Techniques & Concepts Practiced
+## 📸 Preview
+![Leon Screenshot](./leon-screenshot.png)
 
-🔸 Semantic HTML structure for better readability and SEO.
+---
+## 🎯 Key Features & Concepts Practiced
 
-🔸 CSS Flexbox for layout alignment and responsive sections.
+✔️ Semantic HTML structure for accessibility and SEO  
+✔️ Flexbox layout for responsive sections  
+✔️ Fully responsive design using media queries  
+✔️ Clean and modern UI implementation  
+✔️ Google Fonts integration  
+✔️ Font Awesome icons usage  
+✔️ Smooth scrolling behavior  
+✔️ Advanced positioning techniques  
+✔️ Hover effects and transitions  
+✔️ Organized and maintainable CSS structure  
 
-🔸 Responsive design using media queries.
+---
 
-🔸 Custom typography using Google Fonts.
+## 🌐 Live Preview  
+🔗 https://mkandil4.github.io/Template-One-Leon/
 
-🔸 Icons integration using Font Awesome.
+---
 
-🔸 Smooth scrolling with scroll-behavior: smooth.
-
-🔸 Advanced positioning techniques (relative, absolute) for layout control.
-
-🔸 Hover effects and transitions for better user interaction.
-
-🔸 Consistent spacing, alignment, and reusable CSS classes.
-
-🔸 Clean folder structure and organized assets.
-
-------
-
-## 🚀 Live Preview
-
-🔗 https://mkandil4.github.io/Template-One/
-
-------
-
-## 📂 Source Code
-
-🔗 https://github.com/MKandil4/Template-One
-
-------
-
-📂 Folder Structure
+## 📁 Project Structure
 
 Template-One/
-├── index.html
-├── css/
-│   └── style.css
-├── images/
+│── index.html
+│── css/
+│ └── style.css
+│── images/
 └── webfonts/
 
-------
+---
 
-👤 Author
+## 👤 Author
 
-** Mohamed Kandil **
+**Mohamed Kandil**  
+🔗 GitHub: https://github.com/MKandil4  
+🔗 LinkedIn: https://www.linkedin.com/in/mkandil4
 
-💻 GitHub: https://github.com/MKandil4
-💼 LinkedIn: (https://www.linkedin.com/in/mkandil4)
+---
 
-------
+## 💬 Feedback & Suggestions
 
-## 💬 Feedback
+Feel free to open an issue or submit feedback — all suggestions are welcome! 🙌
 
-Feel free to leave feedback, issues, or suggestions to help improve the project! 🫶
+
+
+
+
+
 
