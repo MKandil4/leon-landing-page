@@ -32,7 +32,7 @@ This is a modern and clean landing page built as part of my front-end learning j
 ---
 
 ## 🌐 Live Preview  
-🔗 https://mkandil4.github.io/Template-One-Leon/
+🔗 https://mkandil4.github.io/leon-landing-page/
 
 ---
 
